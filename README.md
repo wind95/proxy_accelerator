@@ -1,5 +1,4 @@
 # proxy_accelerator
-# Qubit
 
 Reliable global connectivity for developers, AI users, and internet professionals.
 
